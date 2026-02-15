@@ -1,6 +1,6 @@
 /*
  *  Programa para almacenar notas y calcular promedios
- *  Autor: Emmanuel Murillo Usuga
+ *  Autor: Juan Sebastián Salinas Luna
  *  Fecha: Febrero 2026
  *  Licencia: GNU GPL v3
  */
